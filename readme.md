@@ -5,9 +5,9 @@ Customize your work environment with your apps and plugins, just be the download
 
 #### Important!
 
-> Ever verify what will be installed and check the content of files, if you see some problem send us upgrades.
-> We not responsible to lost and corrupted of files or any problem that occurrence in some application installed by our scripts.
-> This is a open-source and collaborative project, do your collaborative.
+- Ever verify what will be installed and check the content of files, if you see some problem send us upgrades.
+- We not responsible to lost and corrupted of files or any problem that occurrence in some application installed by our scripts.
+- This is a open-source and collaborative project, do your collaborative. :)
 
 ## Getting Started
 
